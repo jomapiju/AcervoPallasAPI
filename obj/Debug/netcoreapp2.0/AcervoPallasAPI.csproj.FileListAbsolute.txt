@@ -8,3 +8,4 @@
 /home/jomapiju/AcervoPallasAPI/obj/Debug/netcoreapp2.0/AcervoPallasAPI.AssemblyInfo.cs
 /home/jomapiju/AcervoPallasAPI/obj/Debug/netcoreapp2.0/AcervoPallasAPI.dll
 /home/jomapiju/AcervoPallasAPI/obj/Debug/netcoreapp2.0/AcervoPallasAPI.pdb
+/home/jomapiju/AcervoPallasAPI/bin/Debug/netcoreapp2.0/TodoApi.xml
