@@ -1,0 +1,10 @@
+/home/jomapiju/AcervoPallasAPI/bin/Debug/netcoreapp2.0/AcervoPallasAPI.deps.json
+/home/jomapiju/AcervoPallasAPI/bin/Debug/netcoreapp2.0/AcervoPallasAPI.runtimeconfig.json
+/home/jomapiju/AcervoPallasAPI/bin/Debug/netcoreapp2.0/AcervoPallasAPI.runtimeconfig.dev.json
+/home/jomapiju/AcervoPallasAPI/bin/Debug/netcoreapp2.0/AcervoPallasAPI.dll
+/home/jomapiju/AcervoPallasAPI/bin/Debug/netcoreapp2.0/AcervoPallasAPI.pdb
+/home/jomapiju/AcervoPallasAPI/obj/Debug/netcoreapp2.0/AcervoPallasAPI.csproj.CoreCompileInputs.cache
+/home/jomapiju/AcervoPallasAPI/obj/Debug/netcoreapp2.0/AcervoPallasAPI.AssemblyInfoInputs.cache
+/home/jomapiju/AcervoPallasAPI/obj/Debug/netcoreapp2.0/AcervoPallasAPI.AssemblyInfo.cs
+/home/jomapiju/AcervoPallasAPI/obj/Debug/netcoreapp2.0/AcervoPallasAPI.dll
+/home/jomapiju/AcervoPallasAPI/obj/Debug/netcoreapp2.0/AcervoPallasAPI.pdb
